@@ -1,6 +1,7 @@
 # Pizza-Sales-Data-Analytic-Project
 
 ## Project Canvas
+![Project Canvas](https://github.com/user-attachments/assets/a12eee2f-4ca4-4ec2-87ed-f03ab7895a8e)
 
 
 ## Data Preparation
