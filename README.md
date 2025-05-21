@@ -6,7 +6,7 @@
 
 ## Data Preparation
 colab link
-https://colab.research.google.com/drive/1nMtah_ABQGwAeaacqiCl4ZoKORMj-XSD?usp=sharing 
+https://colab.research.google.com/drive/1nMtah_ABQGwAeaacqiCl4ZoKORMj-XSD?usp=sharing
 เราได้ทำการตรวจหา null value ใน data แต่ไม่พบ และนอกจากนั้นยังมีการทำ data enginerring เพิ่ม column และ sheet เพิ่มเติมเพื่อใช้ในการนำไป visualize 
 
 ## Exploratory Data Abakysis 
@@ -40,8 +40,9 @@ https://colab.research.google.com/drive/1nMtah_ABQGwAeaacqiCl4ZoKORMj-XSD?usp=sh
 จากภาพคือ จำนวนยอดจำนสนการทำรายการของสินค้าที่มีราคาต่างๆ โดยเส้น trendline เป็น linear แบบ  downtrend ซึ่งหมายความว่า  
 ยิ่งราคาแพงขึ้นความต้องสั่งก็เพิ่มขึ้นซึ่งหักล้างกับสมมติฐานไว้ แต่อย่างไรก็ตามความชันของเส้นนี้นน้อยมากทำให็ตัดสินทางสถิติได้อย่างแน่นอน
 
-##Link to public tableau dashboard
+## Link to public tableau dashboard
 https://public.tableau.com/shared/2496J2TH8?:display_count=n&:origin=viz_share_link
-
+## Link to original Dataset
+https://www.kaggle.com/code/sasakitetsuya/new-two-pizza-rule-cross-selling-trial/notebook
 
 
